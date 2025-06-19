@@ -5,7 +5,14 @@ Author: Kelven Yee
 Reason: Security issue
 
 CH02
-Description of change: 
+Description of change: Added WCAG contrast compliance 
+Date: 19/6/2025
+Author: Koh Xuan Lin
+Reason: To fix accessibility issue raised in VS-02
+
+CH03
+Description of change:  
 Date: 
 Author: 
 Reason: 
+

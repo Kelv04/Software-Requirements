@@ -4,7 +4,7 @@
 
 | Session ID | Date and Time | Technique | Section Reviewed | Participant & Role | No. of Defects |
 |------------|---------------|-----------|------------------|-------------------|----------------|
-| VS01 | 17/6/2025 5:00pm | Inspection | Section 3.1-3.6 | Kelven (Inspector), Koh Xuan Lin (Inspector), Ow Ka Sheng (Author), Shazreen (Moderator) | 7 |
+| VS01 | 17/6/2025 5:00pm | Inspection | Section 3.1-3.8 | Kelven (Inspector), Koh Xuan Lin (Inspector), Ow Ka Sheng (Author), Shazreen (Moderator) | 11 |
 
 > **Note:** Compulsory to conduct Inspection technique. Students may conduct additional technique(s).
 
@@ -15,14 +15,19 @@
 | Req ID | Validation and Defect Description | Detected By | Comment/Suggested Fix | Session ID | Severity (1–5) |
 |--------|-----------------------------------|-------------|----------------------|------------|----------------|
 | REQ_R1 | No MFA requirement for admin login | Kelven | Add 2FA for admin login | VS01 | 5 |
-| REQ_P1 | Scalability not mentioned for peak traffic | Koh Xuan Lin | Add: "Support 500+ users concurrently" | VS01 | 4 |
+| REQ_C3 | Duplicate of REQ_C1 | Koh Xuan Lin | Removed REQ_C3 | VS01 | 3 |
 
 ### B. Documentation Defect
 
 | Page No. | Validation and Defect Description | Detected By | Comment/Suggested Fix | Session ID | Severity (1–5) |
 |----------|-----------------------------------|-------------|----------------------|------------|----------------|
 | 2 & 3 | Outdated Table of Content | Ow Ka Sheng | Update Table of Content | VS01 | 5 |
+| 31 | Word matching Spelled Wrong | Kelven | Correct the word | VS01 | 1 |
+| 39 | Inconsistent Capitalization | Kelven | Capitalize the word | VS01 | 1 |
 | 56 | Sequence Diagram Without Label | Shazreen | Added label | VS01 | 2 |
+| 57 | Inconsistent Punctuation | Ow Ka Shen | Fix the punctuation | VS01 | 1 |
+| 71 | Word Departure Spelled Wrong | Kelven | Correct the word | VS01 | 1 |
+| 76 | Word labelled Spelled Wrong | Shazreen | Correct the word | VS01 | 1 |
 
 ### C. Agreement Defect
 

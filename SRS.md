@@ -15,7 +15,7 @@
 | Req ID | Validation and Defect Description | Detected By | Comment/Suggested Fix | Session ID | Severity (1–5) |
 |--------|-----------------------------------|-------------|----------------------|------------|----------------|
 | REQ_R1 | No MFA requirement for admin login | Kelven | Add 2FA for admin login | VS01 | 5 |
-| REQ_C3 | Duplicate of REQ_C1 | Koh Xuan Lin | Removed REQ_C3 | VS01 | 3 |
+| REQ_C3 | Duplicate of REQ_C1 | Koh Xuan Lin | Remove REQ_C3 | VS01 | 3 |
 
 ### B. Documentation Defect
 

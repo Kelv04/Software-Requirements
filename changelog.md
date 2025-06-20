@@ -11,8 +11,13 @@ Author: Koh Xuan Lin
 Reason: To fix accessibility issue raised in VS-02
 
 CH03
-Description of change:  
+Description of change: Migrate from SQLite to PostgreSQL database
+Date: 19/6/2025
+Author: Kelven Yee
+Reason: PostgreSQL more suitable for high concurrency program
+
+CH04
+Description of change: 
 Date: 
 Author: 
 Reason: 
-

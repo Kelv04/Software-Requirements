@@ -4,8 +4,9 @@
 
 | Session ID | Date and Time     | Technique  | Section Reviewed | Participant & Role | No. of Defects |
 |------------|-------------------|------------|------------------|-------------------|----------------|
-| VS01 | 17/6/2025 5:00pm  | Inspection | 3.1-3.8 | Kelven (Author), Koh Xuan Lin (Inspector), Ow Ka Sheng (Inspector), Shazreen (Moderator) | 11 |
-| VS02 | 19/6/2025 11:00pm | Inspection | 3.2, 3.4, 3.5 | Kelven (Moderator), Koh Xuan Lin (Author)  Ow Ka Sheng (Presenter), Shazreen (Inspector) | 4 |
+| VS01 | 17/6/2025 5:00pm  | Inspection | 1.3.1, 3.1-4.9 | Kelven (Author), Koh Xuan Lin (Inspector), Ow Ka Sheng (Inspector), Shazreen (Moderator) | 10 |
+| VS02 | 19/6/2025 11:00pm | Inspection | 1.3.1,3.2, 3.4, 3.5 | Kelven (Moderator), Koh Xuan Lin (Author), Ow Ka Sheng (Presenter), Shazreen (Inspector) | 3 |
+| VS02 | 20/6/2025 4:00pm | Inspection | 1.3.1-1.3.4 | Kelven (Author), Koh Xuan Lin (Moderator), Ow Ka Sheng (Inspector), Shazreen (Inspector) | 2 |
 
 > **Note:** Compulsory to conduct Inspection technique. Students may conduct additional technique(s).
 
@@ -16,9 +17,10 @@
 | Req ID | Validation and Defect Description | Detected By | Comment/Suggested Fix | Session ID | Severity (1–5) |
 |--------|-----------------------------------|-------------|----------------------|------------|----------------|
 | REQ_R1 | No MFA requirement for admin login | Kelven | Add 2FA for admin login | VS01 | 5 |
-| REQ_C3 | Duplicate of REQ_C1 | Koh Xuan Lin | Remove REQ_C3 | VS01 | 3 |
-| REQ_GUI | Color codes not accessible | Ow Ka Sheng  | Add WCAG-compliant contrast options | VS02 | 2 |
-| REQ_S1 | SQLite unsuitable for high concurrency; may crash during peak hour | Kelven | Migrate to PostgreSQL with connection pooling | VS02| 5 | 
+| REQ_GUI1 | Color codes not accessible | Ow Ka Sheng  | Add WCAG-compliant contrast options | VS02 | 2 |
+| REQ_S1 | SQLite unsuitable for high concurrency; may crash during peak hour | Kelven | Migrate to PostgreSQL with connection pooling | VS03 | 5 | 
+| REQ_C3 | Duplicate of REQ_C1 | Koh Xuan Lin | Remove REQ_C3 | VS03 | 3 |
+
 
 ### B. Documentation Defect
 
@@ -48,6 +50,7 @@
 | C01 | OAuth login vs campus SSO-only policy | Campus policy prohibits OAuth; needs secure SSO | Dev Team, IT Admin | VS01 |
 | C02 | Staff can change parking anytime | System abuse | Staff | VS01 |
 | C03 | Performance vs Accessibility | Developers want speed; UX team wants full WCAG compliance | Dev Team, UX, QA | VS02 |
+| C04 | Parking reservation limits for staff unclear | Staff want guaranteed slots; system lacks capacity | Staff, Admin | VS03
 
 ## 3.8.4 Conflict Resolution
 
@@ -56,6 +59,7 @@
 | C01 | Replace OAuth with campus SSO login | Y | Compliant with campus policy | IT standards enforced |
 | C02 | Add 1 change-per-day | Y | Fair control policy | Balance user need |
 | C03 | Prioritized accessibility for core features | Y | WCAG compliance added to login and dashboard | Balanced usability with performance trade-offs |
+| C04 | Implemented daily reservation quotas for staff | Y | Staff guaranteed 2 slot/day | Ensures equitable distribution |
 
 ## 3.8.5 Change Log
 
@@ -65,7 +69,7 @@
 |-----------|--------|-------------------|-------------|------|------------|
 | CH01 | REQ_R1 | Added 2FA for admin login | Kelven | 17/6/2025 | VS01 |
 | CH02 | REQ_GUI1 | Added WCAG contrast compliance | Koh Xuan Lin | 19/6/2025 | VS02 |
-| CH03 | REQ_S1 | Migrate from SQLite to PostgreSQL database | Kelven | 19/6/2025 | VS02
+| CH03 | REQ_S1 | Migrate from SQLite to PostgreSQL database | Kelven | 19/6/2025 | VS03 |
 
 ## 3.8.6 Requirements Traceability Matrix
 

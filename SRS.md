@@ -1140,58 +1140,77 @@ The platform prioritizes these qualities—reliability, availability, security, 
 
 ## 3.8 Supporting Information (Sample Input)
 
-Table 3.8.1 Student Sample Input
+### Table 3.8.1 – Student Sample Input
 
-| **Student Profile** |     |
-| --- |     | --- |
-| Name | Wee Jia Sheen |
-| Student ID | 1211110222 |
-| Phone No. | 013 – 200 4324 |
-| Email | <1211110222@student.mmu.edu.my> |
-| Nationality | Malaysian |
-| Address | Block J-02-03, Mutiara Ville, 63000 Cyberjaya, Selangor. |
-| **Student Current Education** |     |
-| Specialization | Software Engineering |
-| Year | Year 2 Sem 3 |
-| **Student Offer Carpool** |     |
-| Student ID | 1211110222 |
-| Message | Good morning! 😊I have class later at 12 PM — is anyone interested in carpooling with me? Let me know if you’d like to join!  <br>Destination: Meet me at Mutiara Ville Lobby<br><br>Time: Will be there at 11.30AM |
-| **Student View Available Parking** |     |
-| View | A map will be displayed with parking slots |
-| Choice | Choose for FCI Faculty Parking Slots and will display available slots (green/red) |
+| **Student Profile**         |                                                                 |
+|-----------------------------|-----------------------------------------------------------------|
+| Name                        | Wee Jia Sheen                                                  |
+| Student ID                  | 1211110222                                                     |
+| Phone No.                   | 013 – 200 4324                                                 |
+| Email                       | <1211110222@student.mmu.edu.my>                               |
+| Nationality                 | Malaysian                                                      |
+| Address                     | Block J-02-03, Mutiara Ville, 63000 Cyberjaya, Selangor.       |
 
-Table 3.8.2 Student Sample Input
+| **Student Current Education** |                                                             |
+|-------------------------------|-------------------------------------------------------------|
+| Specialization                | Software Engineering                                        |
+| Year                          | Year 2 Sem 3                                                |
 
-| **Student Profile** |     |
-| --- |     | --- |
-| Name | Chia Kai Jun |
-| Student ID | 1211111053 |
-| Phone No. | 017 – 600 4783 |
-| Email | <1211111053@student.mmu.edu.my> |
-| Nationality | Malaysian |
-| Address | Block F-23-06, Mutiara Ville, 63000 Cyberjaya, Selangor. |
-| **Student Current Education** |     |
-| Specialization | Data Science |
-| Year | Year 1 Sem 1 |
-| **Student Request Carpool** |     |
-| Student ID | 1211111053 |
-| Message | I was wondering if I could join your carpool for today. Let me know if there’s space, thanks! |
+| **Student Offer Carpool**     |                                                             |
+|-------------------------------|-------------------------------------------------------------|
+| Student ID                    | 1211110222                                                 |
+| Message                       | Good morning! 😊 I have class later at 12 PM — is anyone interested in carpooling with me? Let me know if you’d like to join! <br><br>**Destination:** Meet me at Mutiara Ville Lobby <br>**Time:** Will be there at 11.30AM |
 
-Table 3.8.3 Staff Sample Input
+| **Student View Available Parking** |                                                     |
+|------------------------------------|-----------------------------------------------------|
+| View                               | A map will be displayed with parking slots         |
+| Choice                             | Choose for FCI Faculty Parking Slots and will display available slots (green/red) |
 
-| **Staff Profile** |     |
-| --- |     | --- |
-| Name | Yap Wei Jian |
-| Staff ID | MU243246 |
-| Phone No. | 011 – 340 2526 |
-| Email | <MU243246@mmu.edu.my> |
-| Faculty | FCM |
-| **Staff Reserve Parking** |     |
-| View | A map will be displayed with parking slots |
-| Choice | Choose for FCM Faculty Parking Slots and choose the parking that want to reserve |
-| **Staff View Available Parking** |     |
-| View | A map will be displayed with parking slots |
-| Choice | Choose for FCM Faculty Parking Slots and will display available slots (green/red) |
+---
+
+### Table 3.8.2 – Student Sample Input
+
+| **Student Profile**         |                                                                 |
+|-----------------------------|-----------------------------------------------------------------|
+| Name                        | Chia Kai Jun                                                   |
+| Student ID                  | 1211111053                                                     |
+| Phone No.                   | 017 – 600 4783                                                 |
+| Email                       | <1211111053@student.mmu.edu.my>                               |
+| Nationality                 | Malaysian                                                      |
+| Address                     | Block F-23-06, Mutiara Ville, 63000 Cyberjaya, Selangor.       |
+
+| **Student Current Education** |                                                             |
+|-------------------------------|-------------------------------------------------------------|
+| Specialization                | Data Science                                                |
+| Year                          | Year 1 Sem 1                                                |
+
+| **Student Request Carpool**   |                                                             |
+|-------------------------------|-------------------------------------------------------------|
+| Student ID                    | 1211111053                                                 |
+| Message                       | I was wondering if I could join your carpool for today. Let me know if there’s space, thanks! |
+
+---
+
+### Table 3.8.3 – Staff Sample Input
+
+| **Staff Profile**          |                                                                 |
+|----------------------------|-----------------------------------------------------------------|
+| Name                       | Yap Wei Jian                                                   |
+| Staff ID                   | MU243246                                                       |
+| Phone No.                  | 011 – 340 2526                                                 |
+| Email                      | <MU243246@mmu.edu.my>                                         |
+| Faculty                    | FCM                                                            |
+
+| **Staff Reserve Parking**  |                                                                 |
+|----------------------------|-----------------------------------------------------------------|
+| View                       | A map will be displayed with parking slots                     |
+| Choice                     | Choose for FCM Faculty Parking Slots and choose the parking to reserve |
+
+| **Staff View Available Parking** |                                                         |
+|----------------------------------|-----------------------------------------------------------|
+| View                             | A map will be displayed with parking slots               |
+| Choice                           | Choose for FCM Faculty Parking Slots and will display available slots (green/red) |
+
 
 # 4.0 Verification
 

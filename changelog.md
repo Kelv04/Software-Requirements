@@ -14,3 +14,4 @@
 | CH-10     | Added Register Vehicle in Use Case Diagram                               | 21/6/2025 | Ow Ka Sheng  | Content defect: Missing functionality in UML                      |
 | CH-11     | Standardized to “university student information system (SIS)” throughout | 21/6/2025 | Ow Ka Sheng  | Documentation defect: Inconsistent terminology                    |
 | CH-12     | Defined “Notification” in Use Case Diagram and DB Schema                 | 22/6/2025 | Ow Ka Sheng  | Content enhancement: Modeled user reminders for profile updates   |
+| CH-13     | Added “View Notification” sequence diagram, updated Use Case Diagram and ERD | 22/6/2025 | Ow Ka Sheng  | Functional enhancement: Integrated notification handling in logic, and database |

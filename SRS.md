@@ -13,73 +13,101 @@ Lecturer: Nur Haifa binti Mohd Fathil
 | Yap Wei Jian | 243UC246NA |
 | Tang Zhi Qian | 243UC246NP |
 
-# Table of Content
+**Table of Content**
 
-[1.0 Introduction 4](#_Toc199025269)
+[1.0 Introduction 1](#__RefHeading___Toc8449_2458620545)
 
-[1.1 Purpose 4](#_Toc199025270)
+[1.1 Purpose 1](#__RefHeading___Toc8451_2458620545)
 
-[1.2 Scope 4](#_Toc199025271)
+[1.2 Scope 1](#__RefHeading___Toc8453_2458620545)
 
-[1.3 Product Overview 5](#_Toc199025272)
+[1.3 Product Overview 2](#__RefHeading___Toc8455_2458620545)
 
-[1.3.1 Product Perspective 5](#_Toc199025273)
+[1.3.1 Product Perspective 2](#__RefHeading___Toc8457_2458620545)
 
-[1.3.2 Product Function 11](#_Toc199025274)
+[1.3.1.1 System Interface 2](#__RefHeading___Toc8459_2458620545)
 
-[1.3.3 User Characteristics 16](#_Toc199025275)
+[1.3.1.2 User Interface 2](#__RefHeading___Toc8461_2458620545)
 
-[1.3.4 Limitations 16](#_Toc199025276)
+[1.3.2 Product Function 8](#__RefHeading___Toc8463_2458620545)
 
-[2.0 References 19](#_Toc199025277)
+[1.3.3 User Characteristics 16](#__RefHeading___Toc8465_2458620545)
 
-[3.0 Requirements 20](#_Toc199025278)
+[1.3.4 Limitations 17](#__RefHeading___Toc8467_2458620545)
 
-[3.1 Function 20](#_Toc199025279)
+[2.0 References 19](#__RefHeading___Toc8469_2458620545)
 
-[3.2 Performance Requirements 66](#_Toc199025280)
+[3.0 Requirements 20](#__RefHeading___Toc8471_2458620545)
 
-[3.3 Usability Requirements 67](#_Toc199025281)
+[3.1 Function 20](#__RefHeading___Toc8473_2458620545)
 
-[3.4 Logical Database Requirements 68](#_Toc199025282)
+[3.2 Performance Requirements 73](#__RefHeading___Toc8475_2458620545)
 
-[3.5 Interface Requirements 72](#_Toc199025283)
+[3.3 Usability Requirements 75](#__RefHeading___Toc8477_2458620545)
 
-[3.6 Design Constraints 74](#_Toc199025284)
+[3.4 Logical Database Requirements 76](#__RefHeading___Toc8479_2458620545)
 
-[3.7 Software System Attributes 76](#_Toc199025285)
+[3.5 Interface Requirements 79](#__RefHeading___Toc8481_2458620545)
 
-[3.8 Supporting Information (Sample Input) 78](#_Toc199025286)
+[3.6 Design Constraints 80](#__RefHeading___Toc8483_2458620545)
 
-[4.0 Verification 80](#_Toc199025287)
+[3.7 Software System Attributes 82](#__RefHeading___Toc8485_2458620545)
 
-[4.1 Specified Requirements 80](#_Toc199025288)
+[3.8 Supporting Information 84](#__RefHeading___Toc8487_2458620545)
 
-[4.2 External Interfaces 80](#_Toc199025289)
+[3.8.1 Input Schema 84](#__RefHeading___Toc8489_2458620545)
 
-[4.3 Functions 81](#_Toc199025290)
+[3.8.2 Validation Session 86](#__RefHeading___Toc8491_2458620545)
 
-[4.4 Usability Requirements 81](#_Toc199025291)
+[3.8.3 Content Defect 86](#__RefHeading___Toc8493_2458620545)
 
-[4.5 Performance Requirements 82](#_Toc199025292)
+[3.8.4 Documentation Defect 90](#__RefHeading___Toc8495_2458620545)
 
-[4.6 Logical Database Requirements 82](#_Toc199025293)
+[3.8.5 Agreement Defect 93](#__RefHeading___Toc8497_2458620545)
 
-[4.7 Design Constraints 83](#_Toc199025294)
+[3.8.6 Conflict Analysis 94](#__RefHeading___Toc8499_2458620545)
 
-[4.8 Standards Compliance 83](#_Toc199025295)
+[3.8.7 Conflict Resolution 95](#__RefHeading___Toc8501_2458620545)
 
-[4.9 Software System Attributes 84](#_Toc199025296)
+[3.8.8 Changelog 97](#__RefHeading___Toc8503_2458620545)
 
-[5.0 Appendices 85](#_Toc199025297)
+[3.8.9 Use Case Table 99](#__RefHeading___Toc8505_2458620545)
 
-[5.1 Assumptions and Dependencies 85](#_Toc199025298)
+[3.8.10 Requirements Traceability Matrix 100](#__RefHeading___Toc8507_2458620545)
 
-[5.2 Acronyms and Abbreviations 86](#_Toc199025299)
+[3.8.11 Role in Requirements Validation, Negotiation & Management 104](#__RefHeading___Toc8509_2458620545)
 
-[5.3 Definition 87](#_Toc199025300)
+[3.8.12 Version Control & Configuration Summary 104](#__RefHeading___Toc8511_2458620545)
 
-# Introduction
+[4.0 Verification 106](#__RefHeading___Toc8513_2458620545)
+
+[4.1 Specified Requirements 106](#__RefHeading___Toc8515_2458620545)
+
+[4.2 External Interfaces 106](#__RefHeading___Toc8517_2458620545)
+
+[4.3 Functions 106](#__RefHeading___Toc8519_2458620545)
+
+[4.4 Usability Requirements 107](#__RefHeading___Toc8521_2458620545)
+
+[4.5 Performance Requirements 108](#__RefHeading___Toc8523_2458620545)
+
+[4.6 Logical Database Requirements 108](#__RefHeading___Toc8525_2458620545)
+
+[4.7 Design Constraints 109](#__RefHeading___Toc8527_2458620545)
+
+[4.8 Standards Compliance 109](#__RefHeading___Toc8529_2458620545)
+
+[4.9 Software System Attributes 110](#__RefHeading___Toc8531_2458620545)
+
+[5.0 Appendices 111](#__RefHeading___Toc8533_2458620545)
+
+[5.1 Assumptions and Dependencies 111](#__RefHeading___Toc8535_2458620545)
+
+[5.2 Acronyms and Abbreviations 112](#__RefHeading___Toc8537_2458620545)
+
+[5.3 Definition 113](#__RefHeading___Toc8539_2458620545)
+
+# 1.0 Introduction
 
 ## 1.1 Purpose
 
@@ -97,7 +125,7 @@ This project will focus on building a ride-sharing application for members of th
 
 ### 1.3.1 Product Perspective
 
-_1.3.1.1 System Interface_
+#### 1.3.1.1 System Interface
 
 The platform will incorporate several systems to carry out its functionalities. The system interfaces include:
 
@@ -108,9 +136,9 @@ University Parking System:
 University Database System:
 
 1. Establish a connection to the university’s current database to access and update user’s profile and records of carpool
-2. Make sure data remains consistent and trustworthy between the university database and campus ride-sharing platform.
+2. Make sure data remains consistent and trustworthy between the university student information system (SIS) and campus ride-sharing platform.
 
-_1.3.1.2 User Interface_
+#### 1.3.1.2 User Interface
 
 The following table summarizes the list of graphical user interface (GUI) requirements specified for campus ride-sharing platform.
 
@@ -118,7 +146,7 @@ The following table summarizes the list of graphical user interface (GUI) requir
 
 | Requirement ID | Description | Priority | Authors |
 | --- | --- | --- | --- |
-| REQ_GUI1 | Campus ride-sharing platform GUI shall use a color scheme that is compliant with university’s official colors. For example, the university official colors are blue (RGB Hex code: #0D44FF) and red (RGB Hex code: #CE2121), we will be mainly using these for the interface element. | High | Chia Kai Jun |
+| REQ_GUI1 | Campus ride-sharing platform GUI shall use a color scheme that is compliant with university’s official colors. For example, the university official colors are blue (RGB Hex code: #0D44FF) and red (RGB Hex code: #CE2121), we will be mainly using these for the interface element. Ensure color contrast meets WCAG 2.1 standards for accessibility (e.g., contrast ratio ≥ 4.5:1 for normal text). | High | Chia Kai Jun |
 | REQ_GUI2 | The dashboard shall present a layout that displays upcoming rides, active carpools, and real-time parking availability, ensuring key actions are accessible within **2 clicks** and the user drop-off rate remains below **10%** during navigation. | High | Chia Kai Jun |
 | REQ_GUI3 | The platform interface shall support responsive design across devices, with breakpoints defined as follows: **mobile (≤ 480 px), tablet (481–1024 px), and desktop (≥ 1025 px)**. | High | Chia Kai Jun |
 | REQ_GUI4 | The navigation bar shall remain fixed on top of all pages, with clearly labeled tabs | Medium | Chia Kai Jun |
@@ -145,7 +173,7 @@ The following table summarizes the list of software requirements specified for c
 | --- | --- | --- | --- |
 | REQ_S1 | The system shall be developed using a web framework such as Django with PostgreSQL as the database. | High | Chia Kai Jun |
 | REQ_S2 | The mobile application shall be built using React Native to ensure cross-platform compatibility | High | Chia Kai Jun |
-| REQ_S3 | The platform must integrate with social media APIs (e.g., Facebook, Twitter) to enable social sharing. This integration should support Oauth authentication for secure login and data fetching. | High | Chia Kai Jun |
+| REQ_S3 | The platform must integrate with Single Sign-On (SSO) authentication for secure login and data fetching. | High | Chia Kai Jun |
 
 _1.3.1.5 Communication Interface_
 
@@ -157,13 +185,11 @@ The following table summarizes the list of communication requirements specified 
 | --- | --- | --- | --- |
 | REQ_C1 | The system shall support real-time communication between ride offers and ride seekers via in-app messaging. | High | Chia Kai Jun |
 | REQ_C2 | The system shall ensure secure communication between client apps and backend services using HTTPS. | High | Chia Kai Jun |
-| REQ_C3 | The system shall support real-time communication between ride offers and ride seekers via in-app messaging. | High | Chia Kai Jun |
 
 _1.3.1.6 Memory Constraints_
 
-· Server hosting the platform should have a minimum of 16GB RAM.
-
-· A minimum of 8GB RAM should be dedicated to caching processes.
+- Server hosting the platform should have a minimum of 16GB RAM.
+- A minimum of 8GB RAM should be dedicated to caching processes.
 
 _1.3.1.7 Operation_
 
@@ -185,7 +211,7 @@ Utilizing cloud services for storage allocation, processing power, and network a
 
 Integration with a Customer Relationship Management (CRM) system to manage rides, track interactions, and streamline communication.
 
-### 1.3.2 Product Function  
+### 1.3.2 Product Function
 
 Figure 1.3.2 Use Case Diagram for Campus Ride-Sharing Platform
 
@@ -193,18 +219,23 @@ Figure 1.3.2 Use Case Diagram for Campus Ride-Sharing Platform
 
 | **Actor** | **Use Cases** | **Specification** |
 | --- | --- | --- |
+| Student & Staff & Admin | View Notification | **Description**: Notify users with timely reminders to update their profile for uninterrupted access<br><br>**Precondition**: User has logged into the system<br><br>**Postcondition**: User is informed of incomplete profile and prompted to update it |
 | Student & Staff | Login | **Description**: Allow student/staff login to their account using existed ID and passwords in the university’s database<br><br>**Precondition**: Users have access the registration page<br><br>**Postcondition**: Users inputs are valid and able to log in |
 | Verify Digital ID | **Description**: Allow students and staff to verify their identification to access the platform’s function<br><br>**Precondition**: User is logged into the system and has access to their university-issued digital ID<br><br>**Postcondition**: User’s identity is authenticated and verified, granting access to protected platform features |
 | Request Carpool | **Description**: Students and staff shall be able to request for joining carpools with available seats<br><br>**Precondition**: Users are able to navigate to request page and see available carpool<br><br>**Postcondition**: User joins the requested carpool |
-| Offer Carpool | **Description**: Students and staff shall be able to offer carpools to other users and decide whether to accept or decline the request<br><br>**Precondition**: User is able to navigate to offer carpool page and has verified their ID  <br><br>**Postcondition**: Carpool offer is successfully posted and available to other users |
-| View Available Parking | **Description**: Students and staffs able to view available parking in the university in real time<br><br>**Precondition**: User is logged into their account and has verified their ID<br><br>**Postcondition**: User can view the available parkings |
-| Register Vehicle | **Description:** Students and staffs shall be able to register their vehicle to the system so that they can offer carpools and other functions that required owning a vehicle<br><br>**Precondition:** User have not registered a vehicle before and have access to the vehicle registration page  <br>**Postcondition:** User’s vehicle is registered and eligible to offer carpool. Staffs can reserve parking |
-| Staff | Reserve Parking | **Description**: Staff shall have priority to reserve available parking spaces beforehand.<br><br>**Precondition**: Staff is logged into the system and has verified digital ID.<br><br>**Postcondition**: A parking space is reserved and marked unavailable for others. |
-| Change Parking | **Description**: Staff have the right to request change the parking before a day.<br><br>**Precondition**: Staff are authenticated and have a reserved parking space.<br><br>**Postcondition**: A staff reserved parking of staff is swapped with another chosen parking. |
+| Offer Carpool | **Description**: Students and staff shall be able to offer carpools to other users and decide whether to accept or decline the request<br><br>**Precondition**: User is able to navigate to offer carpool page and has verified their ID<br><br>**Postcondition**: Carpool offer is successfully posted and available to other users |
+| Manage Profile | **Description**: A Student/Staff user manages their profile. The system authenticates the user, processes profile updates, saves valid changes to the database, and provides success or error notification, or redirects to login.<br><br>**Precondition**: Student/Staff user has an existing account.<br><br>**Postcondition**: Student/Staff profile is updated in the database, or an error/redirection occurs, with user notification. |
+| View Available Parking | **Description**: Students and staff able to view available parking in the university in real time<br><br>**Precondition**: User is logged into their account and has verified their ID<br><br>**Postcondition**: User can view the available parkings |
+| Register Vehicle | **Description:** Students and staff shall be able to register their vehicle to the system so that they can offer carpools and other functions that required owning a vehicle<br><br>**Precondition:** User have not registered a vehicle before and have access to the vehicle registration page  <br>**Postcondition:** User’s vehicle is registered and eligible to offer carpool. Staff can reserve parking |
+| Staff | Delete Account | **Description**: A Student/Staff user deletes their account by confirming deletion in the Application System. The system sends a DELETE request to the Server, which removes the user's data from the Database and confirms deletion to the user.<br><br>**Precondition**: Student/Staff user is logged in with an existing account.<br><br>**Postcondition**: User's account and data are permanently deleted, and the user receives a confirmation. |
+| Reserve Parking | **Description**: Staff shall have priority to reserve available parking spaces beforehand, with a limit of one spot per staff member.<br><br>**Precondition**: Staff is logged into the system and has verified digital ID.<br><br>**Postcondition**: A parking space is reserved and marked unavailable for others. |
+| Change Parking | **Description**: Staff have the right to request a change of their reserved parking space, provided the request is made at least one day in advance. **Only one such change is allowed per staff member per calendar day.**<br><br>**Precondition**: Staff are authenticated and have a reserved parking space.<br><br>**Postcondition**: A staff reserved parking of staff is swapped with another chosen parking. |
 | Offer Parking | **Description**: Staff can release or offer their parking spot to others if they don’t need it.<br><br>**Precondition**: Staff have an active parking reservation.<br><br>**Postcondition**: Parking is made available for others to request. |
-| Admin | Monitor System | **Description**: Admin shall continuously monitor system performance, uptime, and logs.<br><br>**Precondition**: Admin is logged into the backend system.<br><br>**Postcondition**: System metrics are logged and anomalies flagged for review. |
+| Admin | Login | **Description**: The admin logs into the Campus Ride-Sharing Application System by providing credentials, which are verified by the server against the database. Successful login displays the admin dashboard; failed login prompts an error message.<br><br>**Precondition**: The Campus Ride-Sharing Application System is operational.<br><br>**Postcondition**: Admin is either successfully logged in to the dashboard or presented with a login failed message, with all login attempts logged. |
+| Monitor System | **Description**: Admin shall continuously monitor system performance, uptime, and logs.<br><br>**Precondition**: Admin is logged into the backend system.<br><br>**Postcondition**: System metrics are logged and anomalies flagged for review. |
 | Technical Support | **Description**: Admin provides support for users experiencing issues with platform functionality.<br><br>**Precondition**: Admin has access to system and user support tools.<br><br>**Postcondition**: Reported issues are addressed, logged, and resolved or escalated. |
 | Implement and Maintain Security Measure | **Description**: Admin ensures the system is secure through updates, encryption, and access control.<br><br>**Precondition**: Admin privileges verified, and access granted.<br><br>**Postcondition**: Security configurations are updated and active, logs are stored. |
+|     | Manage User | **Description**: An Admin manages users via the Admin Interface, viewing, editing roles, or deactivating accounts. The system interacts with the Database to perform these actions and provides feedback.<br><br>**Precondition**: Admin is logged in with user management permissions.<br><br>**Postcondition**: User accounts are viewed, modified, or managed in the database, and the Admin is notified. |
 | Internal System | Synchronize User Data | **Description**: Internal system synchronizes user data across all modules and services.<br><br>**Precondition**: User data is changed or actions are performed.<br><br>**Postcondition**: All modules reflect the updated data consistently. |
 | User Authentication and Authorization | **Description**: Internal system verifies user credentials and grants access based on roles.<br><br>**Precondition**: User submits valid login credentials.<br><br>**Postcondition**: User is authenticated and redirected to their role-specific dashboard. |
 
@@ -232,7 +263,7 @@ The system must comply with campus IT security policies related to authenticatio
 
 _1.3.4.2 Performance and Scalability_
 
-The Campus Ride-sharing Platform must handle peak usage without lag or crashes. To achieve, it requires scalable backend architecture and load balancing.
+The Campus Ride-sharing Platform must handle peak usage without lag or crashes. The system shall support a minimum of 500 concurrent users during peak university hours (8-9 AM, 5-6 PM). To achieve this, it requires scalable backend architecture and load balancing.
 
 _1.3.4.3 Data Privacy and Security Regulations_
 
@@ -240,15 +271,17 @@ The platform must implement robust encryption mechanisms to protect user informa
 
 The system must comply with privacy laws (e.g.,PDPA) concerning the collection, storage, and sharing of personal and location data. The platform should only collect personal data that is used only for the purposes for the platform’s operation and implement appropriate security measures to protect personal data. This will affect design decisions for authentication and encryption.
 
+The platform must also comply with WCAG 2.1 accessibility standards to ensure usability for individuals with disabilities, including screen reader compatibility, keyboard navigation, and sufficient color contrast.
+
 _1.3.4.4 Limitations from Other Systems_
 
 **Third-Party Dependency**
 
 The Campus Ride-sharing Platform is dependent on third-party systems for data and features could result in constraints due to their availability, performance and policy changes.
 
-- - The uptime of third-party services may impact the platform’s functionality
-    - Performance of the platform may impacted by speed of third-party systems
-    - The changes of policies of the third-party APIs provider may causes the platform to be modified in response to the adjustments
+- The uptime of third-party services may impact the platform’s functionality
+- Performance of the platform may impacted by speed of third-party systems
+- The changes of policies of the third-party APIs provider may causes the platform to be modified in response to the adjustments
 
 # 2.0 References
 
@@ -272,14 +305,81 @@ The Campus Ride-sharing Platform is dependent on third-party systems for data an
 
 ## 3.1 Function
 
-3.1.1 Student / Staff Login to Account
+3.1.1 Student/ Staff / Admin View Notification
 
 **Sequence Diagram**
 
+Figure 3.1.1 Sequence Diagram for Student / Staff / Admin View Notification
 
+1. **Authentication and Verification**
+    1. The system validates whether the user is logged in with a valid admin, staff, or user account.
+    2. **The system checks whether the respective role's permissions are sufficient before allowing access to the related features (e.g., admin hardware monitor, staff parking view, user profile update).**
+2. Responses to Abnormalities
+    1. **Hardware Failure (Admin Role)**  
+        **Issue**: The servers, storage devices, or hardware components hosting the system fail to function normally.  
+        **Response**:
+        - Regularly monitor hardware conditions.
+        - Automatically notify admins upon detecting hardware failure.
+        - Display user-facing error messages indicating temporary unavailability.
+    2. No Parking Slots Available (Staff Role)
+
+Issue: No available parking slots based on the user’s applied filters.
+
+Response:
+
+- - - - - Show notification stating “No options available.”
+                - Suggest users adjust their filters for broader results.
+                - Ensure real-time parking slot updates are fetched from the system.
+
+    1. Incomplete User Profile (User Role)
+
+Issue: Incomplete or outdated profile information can restrict access to the system.
+
+Response:
+
+- Prompt the user to complete or update their profile.
+- Use regular notifications to remind users about outdated information.
+
+1. Effect of parameters
+    1. Profile Completeness
+
+Problem: Incomplete or outdated profile information can restrict access to the system.
+
+Solution:
+
+- - - Implement mandatory checks for profile completeness.
+      - Send reminders and visual alerts to users for updating missing or outdated data.
+
+1. Relationship of outputs to inputs
+    1. Input / Output Sequence – View Available Parking (Staff Role)
+        1. User opens the “View Parking” page.
+        2. The system checks the user’s status and permissions.
+        3. User applies filters based on preferred options (e.g., location, availability).
+        4. The system fetches and displays real-time parking slot data.
+        5. If filters match data, available parking locations are shown.
+        6. If no data matches, a message "No options available" is displayed with filter adjustment suggestions.
+    2. Input / Output Sequence – Hardware Monitoring (Admin Role)
+        1. Admin accesses the hardware monitoring dashboard.
+        2. System continuously monitors server and storage health.
+        3. On detecting an anomaly or failure, the system logs the event.
+        4. Admin receives automated notifications.
+        5. A user-friendly error page is shown to users during disruptions.
+    3. Input / Output Sequence – Profile Update (User Role)
+        1. User logs into the system and accesses their profile.
+        2. System checks for completeness of required profile fields.
+        3. If data is missing or outdated, a notification prompts for updates.
+        4. User completes the update and submits.
+        5. System validates the input and updates the profile.
+        6. Confirmation message is displayed once successful.
+
+3.1.2 Student / Staff Login to Account
+
+**Sequence Diagram**
+
+Figure 3.1.2 Sequence Diagram for Student / Staff Login
 
 1. Validity Checks on Inputs
-    1. Ensure student identification provided exists in university databases
+    1. Ensure student identification provided exists in university student information system (SIS)
     2. Make sure password provided is validated and linked to the corresponding student ID
 2. Responses to Abnormal Situations during Registration and Login
     1. Overflow
@@ -303,7 +403,7 @@ Response: Regularly monitor the conditions of hardware components and promptly r
 1. Effect of parameters
     1. User Profile Initialization
 
-Problem: On first successful login, the system needs to create a user profile using information from the university database. If it fails, the user is unable to access the system.
+Problem: On first successful login, the system needs to create a user profile using information from the university student information system (SIS). If it fails, the user is unable to access the system.
 
 Solution: implement checks and fallback logic for partial profile creation  
 
@@ -315,10 +415,11 @@ Solution: implement checks and fallback logic for partial profile creation
         4. The system verifies the provided credentials and authenticates the student.
         5. If the credentials match the ones in the database, the system grants access to the student’s account and redirects it to their dashboard.
 
-3.1.2 Student/Staff Verify Digital ID
+3.1.3 Student/Staff Verify Digital ID
 
 **Sequence Diagram**
 
+Figure 3.1.3 Sequence Diagram for Student / Staff Verify Digital ID
 
 1. Authentication and Verification
 2. Verification from university-issued credentials, which is Student / Staff ID should be concerned
@@ -332,7 +433,7 @@ Response: Use queuing systems to process requests.
 
 1. System Sync Delay
 
-Issue: The university database does not update any changes recently.
+Issue: The university student information system (SIS) does not update any changes recently.
 
 Response: Display message “ID not found, please try again or contact support.”
 
@@ -345,7 +446,7 @@ Response: Notify the user to log the issue and route a backend ticket for data s
 1. Effect of Parameter
 2. Invalid or Inactive ID
 
-Problem: A user attempts to verify their Digital ID, but fails to verify due to ID being expired, deactivated or not recognized by the university database.
+Problem: A user attempts to verify their Digital ID, but fails to verify due to ID being expired, deactivated or not recognized by the university student information system (SIS).
 
 Solution: Show message to the user to notify related to the ID about “Digital ID not active or invalid, please contact university support” and block further access.
 
@@ -354,14 +455,15 @@ Solution: Show message to the user to notify related to the ID about “Digital 
 3. User open Campus Ride-Sharing Application System
 4. System prompts for university Digital ID Verification
 5. User submit their Digital ID
-6. System check ID status with university database.
+6. System check ID status with university student information system (SIS).
 7. If Verification successful, then proceed to dashboard.
 8. If Verification failed, show error message and block access.
 
-3.1.3 Student/Staff Request Carpool
+3.1.4 Student/Staff Request Carpool
 
 **Sequence Diagram**
 
+Figure 3.1.4 Sequence Diagram for Student/Staff Request Carpool
 
 1. Authentication & Verification
 2. The system should ensure user profile is registered and detailed, including pick-up location (most preferred), contact information and campus status, (either student or staff).
@@ -401,10 +503,11 @@ Solution: Prompt users to decompress their references to have more ride options.
 7. If found matching carpool request, the confirmation will be shown for user to add schedule
 8. If matching carpool request not found, a error message will pop out to notify user to try again or change preferences.
 
-3.1.4 Student/Staff Offer Carpool
+3.1.5 Student/Staff Offer Carpool
 
 **Sequence Diagram**
 
+Figure 3.1.5 Sequence Diagram for Student / Staff Offer Carpool
 
 1. Authentication and Verification
 2. The system validate whether users logged in and verified before offering a carpool.
@@ -431,7 +534,7 @@ Response: Inform user about “submission failed, please try again” error mess
 1. Effect of Parameter
 2. Route and Time Selection
 
-Problem: Offering a ride on non-peak hour and odd time may result in no mathing riders.
+Problem: Offering a ride on non-peak hour and odd time may result in no matching riders.
 
 Solution: Suggest about setting up routes at peak hour to establish efficiency ride.
 
@@ -444,11 +547,11 @@ Solution: Suggest about setting up routes at peak hour to establish efficiency r
 7. If Carpool Offer is valid, then ride options will be listed and visible to riders.
 8. If Carpool Offer is invalid, then an error message will pop out and guide user to correct input.
 
-3.1.5 Student/Staff View Available Parking
+3.1.6 Student/Staff View Available Parking
 
 **Sequence Diagram**
 
-
+Figure 3.1.6 Sequence Diagram for Student / Staff View Available Parking
 
 1. Authentication and Verification
 2. The system assure user logged in and verified as an active members, whether it is student or staff.
@@ -488,16 +591,18 @@ Solution: Suggest widening search range or remove filter options to provide more
 7. If the filter match the data, the application will show the location of available parking
 8. If the filter does not match the data, a notification will display saying “no options available” and suggest for adjustment.
 
-3.1.6 Student/Staff Register Vehicle
+3.1.7 Student/Staff Register Vehicle
 
 **Sequence Diagram**
 
+Figure 3.1.7 Sequence Diagram for Student / Staff Register Vehicle
 
 1. Authentication and Verification
 2. The system validate whether the user is logged in with valid student / staff account.
-3. Also validate if user identity is verified before the system allow them to access vehicle registration page
-4. Response to Abnormalities during Vehicle Registration
-5. Invalid Vehicle Information
+3. The system shall require drivers to upload a valid vehicle insurance document when registering vehicle
+4. Also validate if user identity is verified before the system allow them to access vehicle registration page
+5. Response to Abnormalities during Vehicle Registration
+6. Invalid Vehicle Information
 
 Issue: User submits form with empty or incorrect plate number / vehicle type
 
@@ -527,15 +632,48 @@ Solution: Provide clear format guidelines and validate inputs before submission.
 3. User navigates to the “Register Vehicle” page.
 4. System display form which requesting for vehicle information
 5. User enters and submits the information
-6. System validates input and check for existing records in the university database
+6. System validates input and check for existing records in the university student information system (SIS)
 7. If vehicle has not registered yet, the vehicle registration will be successful, then the confirmation will be shown.
 8. If vehicle has been registered before, then the vehicle registration will be failed, afterwards display an error message.
 
-3.1.7 Staff Reserve Parking
+3.1.8 Student/Staff Delete Account
 
 **Sequence Diagram**
 
-Figure 3.1.7 Sequence Diagram for Staff Reserve Parking
+Figure 3.1.8 Sequence Diagram for Student / Staff Register Account Deletion
+
+1. Authentication & Authorization
+    1. Validate that the user is logged in with a valid student/staff session
+    2. Verify that the authenticated user’s identity matches the account being deleted
+    3. (If enabled) Confirm any additional identity checks (e.g. 2FA) before proceeding
+2. Response to Abnormalities during Account Deletion
+    1. Missing Confirmation
+        - **Issue**: User closes or cancels the confirmation dialog without confirming.
+        - **Response**: Abort deletion; return to account settings with a message “Account deletion canceled.”
+    2. Unauthorized Access
+        - **Issue**: User attempts deletion via direct API call without proper auth token or with expired session.
+        - **Response**: Return HTTP 401 Unauthorized with “Please log in to delete your account.”
+    3. Deletion Error / System Failure
+        - **Issue**: Backend deletion operation fails (e.g. database timeout, constraint error).
+        - **Response**: Return HTTP 500 Internal Server Error with “We couldn’t process your request—please try again later.”
+3. Effect of Parameter
+    1. User role policy
+        - Apply soft-delete vs. hard-delete rules based on role (e.g. archive staff accounts, purge student accounts)
+    2. Data retention period
+        - If a retentionPeriod parameter is set, mark data as “deleted” in the UI but retain in archive for the specified duration
+4. **Relationship of Outputs to Inputs (Account Deletion Flow)**
+    1. User navigates to “Account Settings → Delete Account”
+    2. System displays confirmation prompt (e.g. “Type DELETE to confirm”)
+    3. User enters confirmation value and submits
+    4. System validates authentication, identity match, and any parameters
+    5. System deletes or archives data per policy
+    6. System returns success (200 OK) or appropriate error code/message
+
+3.1.9 Staff Reserve Parking
+
+**Sequence Diagram**
+
+Figure 3.1.9 Sequence Diagram for Staff Reserve Parking
 
 1. Authentication
 2. Ensure the staff is logged into the system.
@@ -554,7 +692,7 @@ Issue: When the system detects a user tries to reserve a slot without being logg
 
 Response: You must be logged in to reserve a parking slot. Please login to your account.
 
-1. Parking slot Already Reserved
+1. Parking Slot Already Reserved
 
 Issue: When the system detects the user tries to reserve a parking slot that is already booked.
 
@@ -569,10 +707,11 @@ Response: This parking spot has already been reserved. Please choose another ava
 7. If the parking status is available, the system will reserve the parking slot for the staff and change the parking status to reserved state.
 8. After reserving the parking slot, the system displays a successful message to the staff.
 
-3.1.8 Staff Offer Parking
+3.1.10 Staff Offer Parking
 
 **Sequence Diagram**
 
+Figure 3.1.9 Sequence Diagram for Offer Parking
 
 1. Authentication
 2. Ensure the staff is logged into the system.
@@ -606,10 +745,11 @@ a. Input/Output Sequences (Offer Parking)
 3. If the offer parking belonged to staff, the system will remove the staff reserved parking and change it status to available.
 4. The system displays the success message to staff.
 
-3.1.9 Staff Change Parking
+3.1.11 Staff Change Parking
 
 **Sequence Diagram**
 
+Figure 3.1.11 Sequence Diagram for Change Parking
 
 1. Authentication
 2. Ensure the staff is logged into the system.
@@ -642,31 +782,31 @@ Response: Network connection lost. Please check your internet connection and try
 6. If parking spot status is available, the system changes the originally reserved parking status to available and the chosen parking status to reserved.
 7. The system will deliver a successful message to staff.
 
-3.1.10 Staff Manage Profile
+3.1.12 Staff Manage Profile
 
 **Sequence Diagram**
 
 
-Figure 3.1.10 Sequence Diagram for Staff Manage Profile
+Figure 3.1.12 Sequence Diagram for Staff Manage Profile
 
 1. Authentication
 2. Ensure the staff is logged into the system.
 3. Data Validation
 4. Ensure updated profile data is validated before update profile.
 5. Response Abnormal Situation during manage profile
-6. Unauthorized Access
+    1. Unauthorized Access
 
 Issue: When the system detects a staff tries to offer parking to a user without being logged in or authorized.
 
 Response: You must be logged in to reserve a parking slot. Please login to your account.
 
-1. Network Failure
+- 1. Network Failure
 
 Issue: When staff has connectivity issues while offering parking to the user.
 
 Response: Network connection lost. Please check your internet connection and try again.
 
-1. Missing Required Information
+- 1. Missing Required Information
 
 Issue: When staff update profile data without any data that needs to be required.
 
@@ -680,12 +820,11 @@ Response: Please complete all required fields to update your profile.
 6. If the profile data is valid, the system updates and saves the data through the database.
 7. The system displays a successful message to staff.
 
-3.1.11 Admin Login
+3.1.13 Admin Login
 
 **Sequence Diagram**
 
-
-Figure 3.1.11 Sequence Diagram of Admin Login
+Figure 3.1.13 Sequence Diagram of Admin Login
 
 1. Authentication and Validation
 2. The system ensures user login is authenticated as an Admin by verifying their username and password from the admin database record. Admin username and password format should be differ compared to user.
@@ -724,13 +863,11 @@ Solution: Prompt warning timeout message and redirect to login page to request a
 6. If username and password matches with admin permission, then login will be successful. Then redirect to admin dashboard page.
 7. If username and password does not match, then system will display error message.
 
-3.1.12 Users Manage Profile
+3.1.14 Users Manage Profile
 
 **Sequence Diagram**
 
-![A screenshot of a computer screen
-
-Figure 3.1.12 Sequence Diagram for User Manage Profile
+Figure 3.1.14 Sequence Diagram for User Manage Profile
 
 1. Authentication and Verification
 2. The systems will confirm the users is authenticated and verified.
@@ -757,7 +894,7 @@ Response: Deny the action in addition with warning message about no permission t
 1. Effect of Parameter
 2. Profile Completeness
 
-Problem: Imcomplete or outdated profile can result in prohibited to access the system
+Problem: Incomplete or outdated profile can result in prohibited to access the system
 
 Solution: Prompt users to frequently update their profile with regular notification
 
@@ -770,21 +907,22 @@ Solution: Prompt users to frequently update their profile with regular notificat
 7. If the information is valid, then the profile will be updated in the system with confirmation.
 8. If the information is invalid, then an error message will be prompt and request the user to fix the input.
 
-3.1.13 Admin Manage Users
+3.1.15 Admin Manage Users
 
 **Sequence Diagram**
 
+Figure 3.1.15 Sequence Diagram for Admin Manage Users
 
 1. Authentication
 2. Ensure the admin is logged into the system.
 3. Response Abnormal Situation during monitor system
     1. **Communication Error**  
-        Issue : Admin’s device fails to establish a connection with the server while retrieving or updating user data.  
-        Solution : Display a “Connection Lost” message. Retry the operation or allow the admin to save changes temporarily for syncing later. Notify IT support via alerts.
+        Issue: Admin’s device fails to establish a connection with the server while retrieving or updating user data.  
+        Solution: Display a “Connection Lost” message. Retry the operation or allow the admin to save changes temporarily for syncing later. Notify IT support via alerts.
     2. **Permission Error**  
-        Issue : Non-admin user attempts to access admin management functions.
+        Issue: Non-admin user attempts to access admin management functions.
 
-Solution : Deny access with a clear error message and log the unauthorized attempt for security auditing.  
+Solution: Deny access with a clear error message and log the unauthorized attempt for security auditing.  
 
 1. Effect of Parameters
 2. **User Role Validity**
@@ -803,13 +941,12 @@ Solution : Deny access with a clear error message and log the unauthorized attem
 8. A confirmation message is displayed and the change is logged for audit purposes.
 9. Updated user list is shown reflecting the changes.
 
-3.1.14 Admin Monitor System
+3.1.16 Admin Monitor System
 
 **Sequence Diagram**
 
 
-
-Figure 3.1.14 Sequence Diagram for Admin Monitor System
+Figure 3.1.16 Sequence Diagram for Admin Monitor System
 
 1. Authentication
 2. Ensure the admin is logged into the system.
@@ -851,11 +988,11 @@ Problem: Monitoring data refreshes too slowly, causing delays in detecting and r
 6. If the system activity data exists, the server fetches the data to the system.
 7. System displays all the system activity data to admin.
 
-3.1.15 Admin Technical Support
+3.1.17 Admin Technical Support
 
 **Sequence Diagram**
 
-Figure 3.1.15 Sequence Diagram for Admin Technical Support
+Figure 3.1.17 Sequence Diagram for Admin Technical Support
 
 1. Authentication
 2. Ensure the admin is logged into the system.
@@ -908,12 +1045,11 @@ Solution: Grant appropriate access levels to support tools based on roles. Ensur
 9. If the user receives the support and the issue is solved, the user will send the confirm resolved to admin.
 10. Admin updates the system logs.
 
-3.1.16 Admin Implement and Maintain Security Measure
+3.1.18 Admin Implement and Maintain Security Measure
 
 **Sequence Diagram**
 
-
-Figure 3.1.16 Sequence diagram for Admin Implement and Maintain Security Measure
+Figure 3.1.18 Sequence diagram for Admin Implement and Maintain Security Measure
 
 1. Authentication
 2. Ensure the admin is logged into the system.
@@ -981,13 +1117,13 @@ Table 3.2.1 Table for Campus Ride-Sharing Platform Available Parking Time
 
 | Requirement ID | Description | Priority | Author |
 | --- | --- | --- | --- |
-| REQ_P1 | The system shall provide real-time parking availability updates with a refresh interval of no more than 5 seconds. | Medium | Wee Jia Sheen |
+| REQ_P1 | The system shall provide real-time parking availability updates with a refresh interval of no more than 10 seconds. | Medium | Wee Jia Sheen |
 
 Table 3.2.2 Table for Campus Ride-Sharing Platform Reservation Response Time
 
 | Requirement ID | Description | Priority | Author |
 | --- | --- | --- | --- |
-| REQ_P2 | The system shall process parking or ride reservations within a maximum of 2 seconds after the user submits a request. | Medium | Wee Jia Sheen |
+| REQ_P2 | The system shall process parking or ride reservations within a maximum of 2 seconds after the user submits a request. Backend optimization and caching strategies will be implemented to meet this requirement. | Medium | Wee Jia Sheen |
 
 Table 3.2.3 Table for Campus Ride-Sharing Platform Request/Offer Response Time
 
@@ -1028,7 +1164,7 @@ To prevent any harm to users when using the platform, there will be several meas
 | Carpool_ID | Unique identifier for each carpool ride | Int | PK  |
 | Driver_ID | User ID of the person offering the carpool | Int | FK  |
 | Destination | Destination of the trip | String |     |
-| Deaparture_Time | Scheduled time of departure | DateTime |     |
+| Departure_Time | Scheduled time of departure | DateTime |     |
 | Available_Seats | Number of seats still available | Int |     |
 
 3.4.3 Carpool Request Table
@@ -1075,10 +1211,24 @@ To prevent any harm to users when using the platform, there will be several meas
 | --- | --- | --- | --- |
 | vehicle_id | Unique ID for the vehicle | Int | PK  |
 | user_id | Owner | Int | FK  |
+| type | Vehicle type | Varchar |     |
 | plate_number | Vehicle plate number | Varchar |     |
 | model | Vehicle model | Varchar |     |
 | color | Vehicle color | Varchar |     |
 | capacity | Number of available seats | Int |     |
+
+3.4.8 Notification Table
+
+| Attributes | Description | Data Type | Key |
+| --- | --- | --- | --- |
+| notification_id | Unique notification ID | int | PK  |
+| user_id | Recipient user ID | Int | FK  |
+| title | Brief title of the notification | Varchar |     |
+| message | Detailed message content | Varchar |     |
+| type | Category (e.g., hardware, profile, parking) | Varchar |     |
+| status | unread / read / archived | Varchar |     |
+| created_at | When it was created | Datetime |     |
+
 
 3.4.8 ERD Diagram
 
@@ -1100,7 +1250,7 @@ Both student and staff will access the application via smartphone, similar to ho
 
 3.6.1 Data Privacy Regulations
 
-Compliance with data privacy laws, especially Malaysia’s Personal Data Protection Act (PDPA), is a primary design constraint in the development of this ride-sharing platform. To uphold students and staff members privacy rights, the system must obtain informed and explicit consent from users prior to collecting any personal information such as names, student IDs, vehicle information, or location data. This consent must be clearly communicated, and users should be able to control how their data is used.
+Compliance with data privacy laws, especially Malaysia’s Personal Data Protection Act (PDPA), is a primary design constraint in the development of this ride-sharing platform. To uphold students and staff members privacy rights, the system must obtain informed and explicit consent from users prior to collecting any personal information such as names, student IDs, vehicle information, or location data. Users must be given the option to enable/disable GPS tracking from their profile settings in compliance with PDPA consent requirements. This consent must be clearly communicated, and users should be able to control how their data is used.
 
 Data access controls must be implemented to ensure that sensitive data is only accessible to authorized personnel. This involves adopting role-based access control (RBAC), encryption of sensitive information, and maintaining access logs to monitor usage and detect suspicious activities. For instance, only admin users should be able to view system- wide analytics or modify platform settings, while students and staff are restricted to their own profiles and ride interactions.
 
@@ -1128,9 +1278,9 @@ Several crucial software system features are necessary for the Campus Ride-Shari
 
 Transportation systems that users rely on every day must be reliable. The platform must operate continuously without crashes or data problems because it handles actual parking data and carpool matching in real-time. Users may experience a considerable impact on their vacation plans as a result of downtime or mistakes. The system features real-time monitoring, and automated error recovery to ensure high reliability. System integrity will be maintained through data validation procedures. The platform is always available when needed, especially during busy campus hours.
 
-Since the platform handles sensitive user data such as personal details, and parking reservations, security is a primary concern. To ensure the platform's security, the system will adhere to best practices in secure software design, such as role-based access control, secure OAuth logins, and encrypted communications over HTTPS (TLS 1. 3). The platform will also fully comply with Malaysia's PDPA (Personal Data Protection Act). User data will be kept safe using AES-256 encryption. Additional security measures include routine penetration testing and the deployment of MFA for administrators.
+Since the platform handles sensitive user data such as personal details, and parking reservations, security is a primary concern. To ensure the platform's security, the system will adhere to best practices in secure software design, such as role-based access control, secure SSO logins, and encrypted communications over HTTPS (TLS 1. 3). The platform will also fully comply with Malaysia's PDPA (Personal Data Protection Act). User data will be kept safe using AES-256 encryption. Additional security measures include routine penetration testing and the deployment of MFA for administrators.
 
-The effectiveness of system interactions and the user experience are both affected by performance. Under typical loads, parking availability checks, ride confirmation, and carpool searches should all take place in between two and three seconds. To accomplish this, performance tuning will involve front-end caching, asynchronous back-end requests, and little server-side processing for each transaction. Stress testing and performance benchmarks will make sure that the system continues to respond even when it is used extensively.
+The effectiveness of system interactions and the user experience are both affected by performance. Under typical loads, parking availability checks, ride confirmation, and carpool searches should be completed within 2 seconds to meet current performance benchmarks. To accomplish this, performance tuning will involve front-end caching, asynchronous back-end requests, and little server-side processing for each transaction. Stress testing and performance benchmarks will make sure that the system continues to respond even when it is used extensively.
 
 User adoption depends on usability. The system should have a simple, user-friendly interface that students and employees can use with little assistance. It should take no more than five steps to complete tasks like booking parking or providing a ride. The user interface will adhere to university branding and design standards, ensuring visual consistency and trust. Actual users will be used in usability testing to collect feedback, pinpoint friction areas, and inform design enhancements. Additionally, accessibility features like readable fonts, keyboard navigation, and screen reader compatibility will be included.
 
@@ -1138,79 +1288,274 @@ Finally, interoperability is the system's capacity to communicate with outside p
 
 The platform prioritizes these qualities—reliability, availability, security, maintainability, scalability, performance, portability, usability, and interoperability—to provide a complete, trustworthy, and innovative approach to the issues of campus mobility and parking.
 
-## 3.8 Supporting Information (Sample Input)
+## 3.8 Supporting Information
 
-### Table 3.8.1 – Student Sample Input
+### 3.8.1 Input Schema
 
-| **Student Profile**         |                                                                 |
-|-----------------------------|-----------------------------------------------------------------|
-| Name                        | Wee Jia Sheen                                                  |
-| Student ID                  | 1211110222                                                     |
-| Phone No.                   | 013 – 200 4324                                                 |
-| Email                       | <1211110222@student.mmu.edu.my>                               |
-| Nationality                 | Malaysian                                                      |
-| Address                     | Block J-02-03, Mutiara Ville, 63000 Cyberjaya, Selangor.       |
+Table 3.8.1 Student Sample Input
 
-| **Student Current Education** |                                                             |
-|-------------------------------|-------------------------------------------------------------|
-| Specialization                | Software Engineering                                        |
-| Year                          | Year 2 Sem 3                                                |
+| **Student Profile**   |                                                                       |
+| --------------------- | --------------------------------------------------------------------- |
+| **Name**              | Wee Jia Sheen                                                         |
+| **Student ID**        | 1211110222                                                            |
+| **Phone No.**         | 013–200 4324                                                          |
+| **Email**             | [1211110222@student.mmu.edu.my](mailto:1211110222@student.mmu.edu.my) |
+| **Nationality**       | Malaysian                                                             |
+| **Address**           | Block J-02-03, Mutiara Ville, 63000 Cyberjaya, Selangor.              |
+| **Current Education** |                                                                       |
+| • Specialization      | Software Engineering                                                  |
+| • Year                | Year 2 Sem 3                                                          |
 
-| **Student Offer Carpool**     |                                                             |
-|-------------------------------|-------------------------------------------------------------|
-| Student ID                    | 1211110222                                                 |
-| Message                       | Good morning! 😊 I have class later at 12 PM — is anyone interested in carpooling with me? Let me know if you’d like to join! <br><br>**Destination:** Meet me at Mutiara Ville Lobby <br>**Time:** Will be there at 11.30AM |
+| **Student Offer Carpool** |                                                                                                                                                                                                                         |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Student ID**            | 1211110222                                                                                                                                                                                                              |
+| **Message**               | Good morning! 😊 I have class later at 12 PM — is anyone interested in carpooling with me? Let me know if you’d like to join!<br>**Destination:** Meet me at Mutiara Ville Lobby<br>**Time:** Will be there at 11.30 AM |
 
-| **Student View Available Parking** |                                                     |
-|------------------------------------|-----------------------------------------------------|
-| View                               | A map will be displayed with parking slots         |
-| Choice                             | Choose for FCI Faculty Parking Slots and will display available slots (green/red) |
-
----
-
-### Table 3.8.2 – Student Sample Input
-
-| **Student Profile**         |                                                                 |
-|-----------------------------|-----------------------------------------------------------------|
-| Name                        | Chia Kai Jun                                                   |
-| Student ID                  | 1211111053                                                     |
-| Phone No.                   | 017 – 600 4783                                                 |
-| Email                       | <1211111053@student.mmu.edu.my>                               |
-| Nationality                 | Malaysian                                                      |
-| Address                     | Block F-23-06, Mutiara Ville, 63000 Cyberjaya, Selangor.       |
-
-| **Student Current Education** |                                                             |
-|-------------------------------|-------------------------------------------------------------|
-| Specialization                | Data Science                                                |
-| Year                          | Year 1 Sem 1                                                |
-
-| **Student Request Carpool**   |                                                             |
-|-------------------------------|-------------------------------------------------------------|
-| Student ID                    | 1211111053                                                 |
-| Message                       | I was wondering if I could join your carpool for today. Let me know if there’s space, thanks! |
+| **Student View Available Parking** |                                                                                                   |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **View**                           | A map will be displayed with parking slots                                                        |
+| **Choice**                         | Choose “FCI Faculty Parking Slots” to display available slots (green = available, red = occupied) |
 
 ---
 
-### Table 3.8.3 – Staff Sample Input
+**Table 3.8.2b Student Sample Input (Request Carpool)**
 
-| **Staff Profile**          |                                                                 |
-|----------------------------|-----------------------------------------------------------------|
-| Name                       | Yap Wei Jian                                                   |
-| Staff ID                   | MU243246                                                       |
-| Phone No.                  | 011 – 340 2526                                                 |
-| Email                      | <MU243246@mmu.edu.my>                                         |
-| Faculty                    | FCM                                                            |
+| **Student Profile**   |                                                                       |
+| --------------------- | --------------------------------------------------------------------- |
+| **Name**              | Chia Kai Jun                                                          |
+| **Student ID**        | 1211111053                                                            |
+| **Phone No.**         | 017–600 4783                                                          |
+| **Email**             | [1211111053@student.mmu.edu.my](mailto:1211111053@student.mmu.edu.my) |
+| **Nationality**       | Malaysian                                                             |
+| **Address**           | Block F-23-06, Mutiara Ville, 63000 Cyberjaya, Selangor.              |
+| **Current Education** |                                                                       |
+| • Specialization      | Data Science                                                          |
+| • Year                | Year 1 Sem 1                                                          |
 
-| **Staff Reserve Parking**  |                                                                 |
-|----------------------------|-----------------------------------------------------------------|
-| View                       | A map will be displayed with parking slots                     |
-| Choice                     | Choose for FCM Faculty Parking Slots and choose the parking to reserve |
+| **Student Request Carpool** |                                                                                               |
+| --------------------------- | --------------------------------------------------------------------------------------------- |
+| **Student ID**              | 1211111053                                                                                    |
+| **Message**                 | I was wondering if I could join your carpool for today. Let me know if there’s space, thanks! |
 
-| **Staff View Available Parking** |                                                         |
-|----------------------------------|-----------------------------------------------------------|
-| View                             | A map will be displayed with parking slots               |
-| Choice                           | Choose for FCM Faculty Parking Slots and will display available slots (green/red) |
+---
 
+**Table 3.8.3 Staff Sample Input**
+
+| **Staff Profile** |                                                   |
+| ----------------- | ------------------------------------------------- |
+| **Name**          | Yap Wei Jian                                      |
+| **Staff ID**      | MU243246                                          |
+| **Phone No.**     | 011–340 2526                                      |
+| **Email**         | [MU243246@mmu.edu.my](mailto:MU243246@mmu.edu.my) |
+| **Faculty**       | FCM                                               |
+
+| **Staff View Available Parking** |                                                                           |
+| -------------------------------- | ------------------------------------------------------------------------- |
+| **View**                         | A map will be displayed with parking slots                                |
+| **Choice**                       | Choose “FCM Faculty Parking Slots” to display available slots (green/red) |
+
+| **Staff Reserve Parking** |                                            |
+| ------------------------- | ------------------------------------------ |
+| **View**                  | A map will be displayed with parking slots |
+| **Choice**                | Choose a parking slot to reserve           |
+
+
+### 3.8.2 Validation Session
+
+| Session ID | Date & Time | Technique | Section Reviewed | Participant & Role | No. of Defects |
+| --- | --- | --- | --- | --- | --- |
+| VS_01 | 15/06/2025; 8:00–10:00 PM | Inspection | 1.0 Introduction – 5.0 Appendices | Whole Team | 16  |
+| VS_02 | 16/06/2025; 8:00–10:00 PM | Walkthrough | 1.3 Product Overview | Whole Team | 5   |
+| VS_03 | 17/06/2025; 8:00–9:00 PM | Walkthrough | 1.3 Product Overview, 3.1 Functional Requirements | Whole Team | 6   |
+| VS_04 | 18/06/2025; 8:00–10:00 PM | Inspection | 1.3 Product Overview, 3.4 Logical Database Requirements | Whole Team | 7   |
+| VS_05 | 19/06/2025; 9:00–11:00 PM | Inspection | 1.3 Product Overview, 3.1 Functional, 3.2 Performance Requirements | Whole Team | 5   |
+| VS_06 | 20/06/2025; 10:00–11:00 PM | Inspection | 3.1 Functional, 3.2 Performance Requirements | Whole Team | 5   |
+
+### 3.8.3 Content Defect
+
+| Page No. | Validation & Defect Description | Detected By | Comment / Suggested Fix | Session ID | Severity |
+| --- | --- | --- | --- | --- | --- |
+| 1–89 | Manual spacing used in place of page breaks, causing layout instability. | Kelven | **Analyze and standardize** document structure by replacing manual line-break clusters with formal page or section break markers. Update the style guide to **document spacing conventions**, apply automated break insertion via word-processing tools, and validate consistency across exported formats. This ensures stable layout and serves as a repeatable process for future revisions. | VS_01 | 5   |
+| 1–89 | Inconsistent paragraph formatting: Each paragraph is terminated with a manual line break (Enter key), even when the content should flow continuously. | Kelven | **Restructure content** into coherent, flowing paragraphs: remove unnecessary line breaks, consolidate fragmented sentences under unified paragraphs, and introduce sub-headings where logical grouping is needed. Validate by performing a continuous-text review and using “show formatting” tools to confirm no residual manual breaks remain. | VS_01 | 5   |
+| 2 & 3 | Outdated Table of Content. | Shazreen | **Regenerate the ToC** automatically from the current heading hierarchy. Cross-verify each heading and page number against the document’s structure. Document the ToC generation process in the project style guide, and include a checklist step in the validation methodology to prevent future drift. | VS_01 | 3   |
+| 10  | Inconsistent content spacing. | Ka Sheng | **Standardize spacing** by defining clear rules (e.g., one blank line before each H1/H2, single line-spacing for body text) in the style template. Apply a global find-and-replace using these rules, then perform a sampling audit on key sections to confirm compliance with the spacing standard. | VS_01 | 1   |
+| 13  | Use of “staffs” instead of “staff”. | Shazreen | **Correct terminology** by replacing “staffs” with “staff” throughout. Perform a controlled vocabulary scan to ensure consistent usage of collective nouns. Update the glossary to reflect the singular “staff” as the correct term and include it in the validation checklist for terminology consistency. | VS_03 | 2   |
+| 16  | Heading spacing inconsistent (Table 1.3.3 User Characteristics). | Ka Sheng | **Align heading indent** to match the defined template: adjust left margin and spacing before/after according to H3 style rules. Include this check in a post-edit QA pass using style-checking software to flag any deviations from the approved heading hierarchy. | VS_01 | 1   |
+| 16  | Missing user accessibility notes. | Xuan Lin | **Integrate WCAG 2.1 compliance** details under the accessibility section: specify contrast ratios, keyboard navigation flows, alt-text requirements, and screen-reader compatibility. Reference the W3C guidelines and include a signature-off by the accessibility lead to substantiate compliance. | VS_05 | 2   |
+| 31  | Typo in Route and Time Selection at Effect of Parameter: “mathing”. | Kelven | **Correct spelling** to “matching” and incorporate an automated spell-check stage in the editing workflow. Document this step in the validation methodology to capture such typographical errors early, reducing rework and ensuring terminological accuracy. | VS_03 | 2   |
+| 39  | Inconsistent capitalization. | Shazreen | **Enforce title case** for all headings and sentence case for body text via a style-guide rule. Run a global style-checker to identify and correct any deviations; include capitalization rules in the team’s editing checklist. | VS_03 | 2   |
+| 44  | Figure 3.1.8 numbered twice. | Ka Sheng | **Renumber duplicate** to “Figure 3.1.9,” update all in-text references accordingly, and regenerate the figure list. Add a validation step that cross-compares figure captions against their sequence to prevent future conflicts. | VS_05 | 3   |
+| 55  | Typo in Profile Completeness at Effect of Parameter: “Imcomplete”. | Kelven | **Fix to “Incomplete”**, then add a glossary entry defining “Profile Completeness.” Include a cross-reference in the validation evidence that links the term usage to its definition, ensuring conceptual clarity and preventing recurrence of such typos. | VS_03 | 2   |
+| 56  | Sequence diagram without label at 3.1.13. | Shazreen | **Add caption**: “Figure 3.1.13 Sequence Diagram for Admin Manage Users.” Standardize all figure captions to follow “\[Figure X.Y.Z\] ” format. Validate through a caption-consistency check against the figure inventory. | VS_03 | 2   |
+| 57  | Inconsistent punctuation in Response Abnormal Situation during monitor system. | Shazreen | **Standardize punctuation** by ending each bullet with a period, using colons before quoted messages, and ensuring parallel grammatical structure. Apply a global style-sheet correction and verify via a grammar-checking tool. | VS_03 | 2   |
+| 66  | Outdated performance metric. | Xuan Lin | **Update benchmark** to reflect current load-test results (e.g., <100 ms average response). Reference the latest performance validation report—including test dates, tools used, and sample sizes—to substantiate the new target. Embed this evidence in the validation appendix for full traceability. | VS_06 | 2   |
+| 71  | Typo in Carpool table header: “Deaparture_Time”. | Xuan Lin | **Correct to “Departure_Time”**, and align all database schema headers with the logical data model. Include a schema-validation step that cross-references table headers against the ERD to prevent mismatches. | VS_01 | 2   |
+| 75  | Format inconsistency: heading 3.6.2 spacing differs from 3.6.1 & 3.6.3. | Ka Sheng | **Apply uniform heading formatting** across all sub-sections by enforcing the same line spacing and indent for H3 elements. Automate this through the style template and validate with a macros-driven check that flags any heading not conforming to the template. | VS_01 | 1   |
+| 78  | Inconsistent terminology: “university student information system (SIS)” vs “university database”. | Ka Sheng | **Standardize to “university student information system (SIS)”** throughout. Use a controlled-vocabulary replacement tool to update all occurrences, then document the change in the terminology section. Validate by running a search for the alternate term to ensure no instances remain. | VS_05 | 2   |
+
+### 3.8.4 Documentation Defect
+
+| Page No. | Validation & Defect Description | Detected By | Comment / Suggested Fix | Session ID | Severity |
+| --- | --- | --- | --- | --- | --- |
+| 1–89 | Manual spacing used instead of page breaks, causing layout instability across formats. | Kelven | Replace clustered line breaks with formal page or section breaks. Update style guide, apply automated formatting tools, and validate consistency in export to PDF and DOCX. | VS_01 | 5   |
+| 1–89 | Inconsistent paragraph formatting: paragraphs broken by manual line breaks. | Kelven | Restructure into flowing paragraphs by removing unnecessary breaks. Validate using "show formatting" tools; introduce sub-headings where logical grouping is missing. | VS_01 | 5   |
+| 2 & 3 | Outdated Table of Contents (ToC); page numbers and headings no longer match. | Shazreen | Regenerate ToC using word processor’s auto-generation tool. Cross-verify with document sections, document the ToC generation process, and include checklist item in validation SOP. | VS_01 | 3   |
+| 10  | Inconsistent spacing throughout the page. | Ka Sheng | Define spacing rules in style guide (e.g., one line before H1/H2, single line-spacing for body). Apply globally using find-and-replace, then validate with sample audits. | VS_01 | 1   |
+| 13  | Use of incorrect plural form “staffs” instead of “staff”. | Shazreen | Replace all instances with correct collective noun “staff”. Add to glossary, use vocabulary scan tools to ensure consistent terminology. | VS_03 | 2   |
+| 16  | Heading spacing inconsistency under Table 1.3.3 “User Characteristics.” | Ka Sheng | Adjust to match H3 style formatting: standardize margins and spacing before/after. Validate via style-checking tools. | VS_01 | 1   |
+| 16  | Missing accessibility notes under user characteristics. | Xuan Lin | Add WCAG 2.1 compliance details: contrast ratio, alt-text usage, keyboard navigation, screen reader support. Reference W3C guidelines and validate via accessibility audit. | VS_05 | 2   |
+| 31  | Typo: “mathing” in “Route and Time Selection” section. | Kelven | Correct to “matching”. Integrate automated spell check in workflow and document spell-check step in validation checklist. | VS_03 | 2   |
+| 39  | Inconsistent capitalization across headings and text. | Shazreen | Apply title case for headings, sentence case for body. Use global style checker and update editing checklist to include capitalization rules. | VS_03 | 2   |
+| 44  | Duplicate figure number: “Figure 3.1.8” used twice. | Ka Sheng | Renumber second instance to “Figure 3.1.9.” Update figure references and regenerate figure list. Validate via a figure sequence check. | VS_05 | 3   |
+| 55  | Typo: “Imcomplete” in “Profile Completeness” section. | Kelven | Correct to “Incomplete.” Add term to glossary and validate usage via cross-referencing within glossary and text. | VS_03 | 2   |
+| 56  | Sequence diagram in section 3.1.13 lacks caption. | Shazreen | Add descriptive caption: “Figure 3.1.13 Sequence Diagram for Admin Manage Users.” Apply consistent figure caption format and validate all figures against inventory. | VS_03 | 2   |
+| 57  | Inconsistent punctuation in “Response Abnormal Situation” bullets. | Shazreen | Standardize list formatting: periods for bullets, colons for quoted responses, consistent grammar structure. Use global formatting and grammar tools to apply changes. | VS_03 | 2   |
+| 66  | Performance metrics outdated; does not reflect latest test results. | Xuan Lin | Update with latest benchmark (e.g., <100 ms avg. response). Include evidence from recent load tests and link to test appendix. | VS_06 | 2   |
+| 71  | Typo in database table header: “Deaparture_Time”. | Xuan Lin | Correct to “Departure_Time”. Validate schema fields against ERD and ensure naming consistency in all DB documentation. | VS_01 | 2   |
+| 75  | Formatting inconsistency in section 3.6.2 heading compared to adjacent headings. | Ka Sheng | Apply uniform H3 formatting across all subsections using style template. Validate using heading style-check macros. | VS_01 | 1   |
+| 78  | Terminology inconsistency: “university student information system (SIS)” vs “university database.” | Ka Sheng | Standardize term to “university student information system (SIS)”. Apply find-replace using controlled vocabulary tool and update glossary/terminology section. | VS_05 | 2   |
+
+### 3.8.5 Agreement Defect
+
+| Req ID | Validation Description / Stakeholder Concern | Mismatch Description | Detected By | Session ID | Severity |
+| --- | --- | --- | --- | --- | --- |
+| REQ_S3 | Social login functionality proposed in the system is not compliant with the university’s IT security policy. | OAuth-based login contradicts the institution’s SSO-only enforcement. | Kelven | VS_01 | 5   |
+| REQ_P1 | A 5-second automatic data refresh rate is proposed, but developers report system resource constraints. | Technical feasibility gap: high refresh frequency may overload the system or client devices. | Xuan Lin | VS_06 | 4   |
+| REQ_P4 | Requirement allows staff to change parking availability at any time, but admin prefers restrictions. | Over-flexibility in staff permissions conflicts with admin's need for centralized control. | Ka Sheng | VS_01 | 4   |
+
+### 3.8.6 Conflict Analysis
+
+| Conflict ID | Conflict Description | Conflict Analysis | Stakeholders Involved | Session ID |
+| --- | --- | --- | --- | --- |
+| CF_01 | OAuth login vs campus SSO-only policy | Campus IT policy prohibits OAuth. System must integrate secure campus-wide SSO authentication. | Dev Team, IT Admin | VS_01 |
+| CF_02 | Staff can change parking anytime | Over-flexibility may lead to reservation abuse and multiple holds. Needs policy-based restriction. | Staff | VS_01 |
+| CF_03 | Missing insurance validation | Legal risk in allowing unverified drivers. Insurance verification is mandatory. | Legal, Dev | VS_03 |
+| CF_04 | No self-service account deletion/export for users | Admin-only deletion violates PDPA/GDPR. Users need access to delete/export their data. | Legal, Users | VS_04 |
+| CF_05 | GPS tracking assumed, but no opt-out | Privacy concern. User consent must be obtained before location tracking. | Users, Admin | VS_04 |
+| CF_06 | Scalability unclear | No defined load target. System may crash under high traffic. | Infra, Dev | VS_04 |
+| CF_07 | Notification system missing | Lack of alerts undermines usability. Users expect confirmations and status updates. | Users, UX | VS_04 |
+| CF_08 | Vehicle info lacks vehicle type | Prevents filtering for ride-sharing or parking logic. | Dev, QA | VS_04 |
+| CF_09 | Staff parking without availability check | Risk of overbooking if staff reserve without system validation. | Infra, Admin | VS_05 |
+| CF_10 | Parking reservation limits for staff unclear | Unlimited reservation may be exploited. Admins prefer defined limits. | Staff, Admin | VS_05 |
+| CF_11 | Performance vs Accessibility | Devs want minimal load time; UX team insists on full WCAG compliance for inclusivity. | Dev Team, UX, QA | VS_05 |
+| CF_12 | Real-time updates vs system load | Frequent backend calls increase server load; need balance with responsiveness. | Dev Team, QA, PO | VS_06 |
+
+### 3.8.7 Conflict Resolution
+
+| Conflict ID | Resolution Strategy | Resolved (Y/N) | Outcome | Justification |
+| --- | --- | --- | --- | --- |
+| CF_01 | Replaced OAuth login with secure campus SSO authentication | Y   | Compliant with institutional security policy | Aligns with official IT policy and central identity system |
+| CF_02 | Limited staff to one parking change per day | Y   | Balanced flexibility and administrative control | Prevents misuse without being overly restrictive |
+| CF_03 | Required drivers to upload valid insurance before using the platform | Y   | Legal compliance achieved | Satisfies liability mitigation and verification standards |
+| CF_04 | Implemented user self-service data deletion and export options | Y   | PDPA/GDPR compliance ensured | Protects user data rights and meets legal obligations |
+| CF_05 | Added opt-out toggle for GPS tracking in settings | Y   | Transparent and consent-driven privacy model | Improves trust and aligns with privacy-by-design principles |
+| CF_06 | Set scalability benchmark to support 500+ concurrent users | Y   | Infrastructure readiness confirmed | Capacity planning validated through load testing |
+| CF_07 | Defined notification system and included in SRS | Y   | Clear UX event flow established | Enhances usability through system-generated alerts |
+| CF_08 | Added vehicle_type field to vehicle schema and input forms | Y   | Enabled contextual vehicle filtering | Supports filtering, matching, and analytics |
+| CF_09 | Integrated availability check before allowing parking reservation | Y   | Prevented overbooking scenarios | Matches reservation requests to available physical capacity |
+| CF_10 | Implemented one-slot-per-staff parking policy | Y   | Fair allocation of parking resources | Reduces conflict and ensures equity among staff |
+| CF_11 | Prioritized WCAG compliance on core features while optimizing load time elsewhere | Y   | Accessibility and performance both satisfied | Balanced usability with technical constraints |
+| CF_12 | Reduced real-time refresh rate to 10s and applied backend caching optimization | Y   | Lower system load with sufficient data freshness | Maintains responsiveness without overwhelming system during peak traffic |
+
+### 3.8.8 Changelog
+
+| Change ID | Req ID | Summary of Change | Proposed By | Date | Session ID |
+| --- | --- | --- | --- | --- | --- |
+| CH-01 | REQ_R1 | Added **2FA for admin login** due to security concern regarding missing MFA. | Kelven Yee | 15/6/2025 | VS_01 |
+| CH-02 | REQ_S1 | Replaced **SQLite with PostgreSQL or justified prototype use** due to scalability issues. | Kelven Yee | 15/6/2025 | VS_01 |
+| CH-03 | REQ_C3 | Removed or merged **duplicate communication requirement** (REQ_C1 & REQ_C3). | Shazreen | 15/6/2025 | VS_01 |
+| CH-04 | REQ_S3, CF_01 | Replaced **OAuth with campus SSO login**, resolving conflict with campus security policy. | Kelven Yee | 15/6/2025 | VS_01 |
+| CH-05, CH-06 | REQ_H2, REQ_GUI3 | Specified **explicit OS versions and device width ranges for responsive design**, clarifying vague requirements. | Ow Ka Sheng | 16/6/2025 | VS_02 |
+| CH-07 | REQ_GUI1 | Added **WCAG contrast compliance** due to inaccessible color codes. | Koh Xuan Lin | 19/6/2025 | VS_05 |
+| CH-08 | REQ_P1, CF_12 | Reduced **refresh rate to 10s** for feasibility, balancing performance with real-time updates. | Koh Xuan Lin | 20/6/2025 | VS_06 |
+| CH-09 | REQ_P2 | **Backend optimization for faster reservation** (delay > 2s). | Koh Xuan Lin | 20/6/2025 | VS_06 |
+| CH-10, CH-12, CH-13 | 1.3.2, 3.1, CF_07 | Added and defined **"Register Vehicle" and "Notification"** in Use Case Diagrams, DB Schema, and Sequence Diagrams. | Ow Ka Sheng | 21–22/6/25 | VS_04 |
+| CH-11 | 78  | Standardized **terminology to "university student information system (SIS)"** due to inconsistency. | Ow Ka Sheng | 21/6/2025 | VS_05 |
+| CH-14, CH-33 | REQ_P4, CF_02 | Added **one-change-per-day rule with admin override for staff parking**, resolving conflicts and balancing control. | All | 22/6/2025 | VS_01 |
+| CH-15, CH-35 | 1.3.4.2, CF_06 | Added and specified **scalability requirement for 500+ concurrent users**, clarifying unclear scalability. | All | 22/6/2025 | VS_04 |
+| CH-16, CH-37 | 3.4.7, CF_08 | Added vehicle_type **column to Vehicle table and registration**, resolving absence of vehicle type field. | Kelven, Ka Sheng | 22/6/2025 | VS_04 |
+| CH-17, CH-19, CH-21, CH-24, CH-28, CH-31 | 1–89, 10, 16, 39, 57, 75 | Fixed **various documentation formatting issues** (spacing, capitalization, punctuation). | All | 22/6/2025 | VS_01, VS_03 |
+| CH-18 | 2 & 3 | Updated **outdated Table of Content**. | Shazreen | 22/6/2025 | VS_01 |
+| CH-20 | 13  | Corrected **"staffs" to "staff"** throughout the document. | Shazreen | 22/6/2025 | VS_03 |
+| CH-22 | 16  | Added **WCAG 2.1 compliance notes** for user accessibility. | Koh Xuan Lin | 22/6/2025 | VS_05 |
+| CH-23, CH-26, CH-30 | 31, 55, 71 | Fixed **typos** ("mathing" → "matching", "Imcomplete" → "Incomplete", etc.). | Kelven, Xuan Lin | 22/6/2025 | VS_01, VS_03 |
+| CH-25 | 44  | Fixed **duplicate Figure 3.1.8 numbering**. | Ow Ka Sheng | 22/6/2025 | VS_05 |
+| CH-27 | 56  | Added **label for "Figure 3.1.13 Sequence Diagram for Admin Manage Users"**. | Shazreen | 22/6/2025 | VS_03 |
+| CH-29 | 66  | Updated **performance metrics to current benchmarks**. | Koh Xuan Lin | 22/6/2025 | VS_06 |
+| CH-34 | CF_04 | Added **user account deletion feature** for PDPA/GDPR compliance. | Ow Ka Sheng | 22/6/2025 | VS_04 |
+| CH-38 | CF_09 | Implemented **parking availability check for staff**, resolving prior oversight. | Ow Ka Sheng | 22/6/2025 | VS_05 |
+| CH-39 | CF_10 | Implemented **daily reservation quotas for staff** (1 slot/day), clarifying reservation limits. | Ow Ka Sheng | 22/6/2025 | VS_05 |
+
+### 3.8.9 Use Case Table
+
+| Use Case ID | Use Case |
+| --- | --- |
+| UC-01 | Register / Login |
+| UC-02 | View Notification |
+| UC-03 | Manage Profile |
+| UC-04 | Delete Account |
+| UC-05 | Register Vehicle |
+| UC-06 | View Available Parking |
+| UC-07 | Offer Carpool |
+| UC-08 | Request Carpool |
+| UC-09 | Verify Digital ID |
+| UC-10 | Reserve Parking |
+| UC-11 | Change Parking |
+| UC-12 | Offer Parking |
+| UC-13 | Synchronize User Data |
+| UC-14 | User Authentication and Authorization |
+| UC-15 | Monitor System |
+| UC-16 | Technical Support |
+| UC-17 | Implement and Maintain Security Measure |
+| UC-18 | Manage User |
+
+### 3.8.10 Requirements Traceability Matrix
+
+| Req ID | Requirement Description | Linked Goal(s) | Feature(s) | Use Case(s) | Traceability Score (1–4) | Description |
+| --- | --- | --- | --- | --- | --- | --- |
+| REQ_R1 | Add Multi-Factor Authentication (MFA) in admin login | G3 Security | F5 Authentication | UC-14 User Authentication and Authorization | 4   | Linked to security goal, authentication feature, and the UC-14 flow for login/MFA. |
+| REQ_S3 | Social login must use campus SSO | G3 Security | F5 Authentication | UC-14 User Authentication and Authorization | 4   | Campus SSO replaces OAuth per policy; fully traced to goal, feature, and UC-14. |
+| REQ_P2 | System response for reservation shall be <1.5 s | G1 Performance | F1 Reservation | UC-10 Reserve Parking | 4   | Tied to performance goal, reservation feature, and UC-10; validated by profiling. |
+| REQ_P1 | Dashboard refresh rate shall be ≥10 s | G1 Performance | F6 Dashboard Refresh | UC-15 Monitor System | 3   | Linked to performance goal and monitoring feature; UC-15 refresh use-case partly verified. |
+| REQ_P4 | Staff may only change parking once per day (admin override allowed) | G6 Usability & Control | F9 Staff Controls | UC-11 Change Parking | 4   | Fully traced: policy goal, control feature, and UC-11 with admin override exception. |
+| REQ_GUI1 | UI color codes must meet WCAG contrast ratios | G4 Accessibility | F3 UI Accessibility | UC-01 Register / Login | 3   | Linked to accessibility goal and UI feature; contrast checks in progress for UC-01 screens. |
+| REQ_GUI2 | Define “user-friendly layout” via ≤2 clicks and ≥90 % task success | G6 Usability | F3 UI Accessibility | UC-01 Register / Login | 3   | Usability goal and UI feature linked; needs usability testing in UC-01 flows. |
+| REQ_GUI3 | Specify responsive breakpoints (Mobile ≤480 px; Tablet 481–1024 px; Desktop ≥1025 px) | G4 Accessibility | F3 UI Accessibility | UC-01 Register / Login | 3   | Accessibility goal and UI feature traced; cross-device checks for UC-01 are pending. |
+| REQ_H2 | Support iOS 14–17 and Android 11–14 | G7 Compatibility | F10 Platform Support | UC-01 Register / Login | 2   | Mapped to compatibility goal and platform-support feature; needs explicit test-matrix entries. |
+| REQ_S1 | Use PostgreSQL for production or justify SQLite for prototype | G5 Scalability | F8 Data Storage | —   | 2   | Scalability goal linked to storage feature; no direct use-case but backed by benchmark evidence. |
+| 1.3.2 (Register Vehicle) | Include “Register Vehicle” in use-case diagram | G2 Functionality | F7 Vehicle Management | UC-05 Register Vehicle | 4   | Fully traced: product goal, vehicle feature, and UC-05 in UML and DB schema. |
+| 1.3.2 (Staff Manage Profile) | Add “Staff Manage Profile” to use-case diagram | G2 Functionality | F4 Profile Management | UC-03 Manage Profile | 4   | Linked to functionality goal, profile feature, and UC-03 with staff actor path. |
+| 1.3.2 (Users Manage Profile) | Add “Users Manage Profile” to use-case diagram | G2 Functionality | F4 Profile Management | UC-03 Manage Profile | 4   | Ensures both user and staff paths are mapped under UC-03. |
+| 1.3.2 (Admin Manage Users) | Add “Admin Manage Users” to use-case diagram | G2 Functionality | F4 Profile Management | UC-18 Manage User | 4   | Fully traced: admin functionality goal, feature, and UC-18. |
+| 1.3.4.2 | System shall support 500+ concurrent users with <10 % latency increase | G5 Scalability | F1 Reservation | UC-10 Reserve Parking | 4   | Scalability goal, reservation feature, and UC-10 validated by load tests. |
+| 3.1 | Define notification triggers and include in use-case & sequence diagrams | G2 Functionality | F2 Notification | UC-02 View Notification | 4   | Fully traced to functionality goal, notification feature, and UC-02. |
+| 3.4.7 | Add “vehicle_type” column to Vehicle schema | G2 Functionality | F7 Vehicle Management | UC-05 Register Vehicle | 4   | Mapped to functionality goal, vehicle feature, and UC-05; schema update validated. |
+
+### 3.8.11 Role in Requirements Validation, Negotiation & Management
+
+| Student Name | Primary Responsibility | No. of Sessions Participated |
+| --- | --- | --- |
+| **Kelven Yee Kai Wen** | Content validation, traceability matrix updates | 6   |
+| **Koh Xuan Lin** | GitHub version control, changelog maintenance, conflict logging | 6   |
+| **Ow Ka Sheng** | Conflict analysis, stakeholder concern tracking | 6   |
+| **Shazreen Sheridan** | Documentation review, defect classification | 6   |
+
+### 3.8.12 Version Control & Configuration Summary
+
+Repository Branch: project-part-2
+
+Key Files:
+
+- SRS.md: Working version of updated SRS
+- TT2L_GE_SRS.doc: Final version
+- changelog.md: Record of all requirement-related changes
+
+| Student Name | Commits Made | Pull Requests Merged | Change Log Entries Made |
+| --- | --- | --- | --- |
+| **Kelven Yee Kai Wen** | 12  | 0   | **10** (CH-01, CH-02, CH-04, CH-16, CH-17, CH-23, CH-26, CH-32 + co-author of CH-33, CH-35) |
+| **Koh Xuan Lin** | 6   | 0   | **6** (CH-07, CH-08, CH-09, CH-22, CH-29, CH-30) |
+| **Ow Ka Sheng** | 15  | **5** (PR #5–#9) | **16** (CH-05, CH-06, CH-10–CH-13, CH-14, CH-19, CH-21, CH-25, CH-31, CH-34, CH-36–CH-39 + co-author of CH-33, CH-35) |
+| **Shazreen Sheridan** | 5   | **2** (merge & revert) | **8** (CH-03, CH-15, CH-18, CH-20, CH-24, CH-27, CH-28 + co-author of CH-33, CH-35) |
 
 # 4.0 Verification
 
@@ -1302,6 +1647,8 @@ Table 4.8 Standards Compliance
 | STD_S3 | WCAG 2.1 | Accessibility Tool Test | QA Team | During UI design |     |
 
 ## 4.9 Software System Attributes
+
+Table 4.9 Software System Attributes
 
 | Attribute ID | Attribute | Verification Method | Responsibility | Event-based Timing | Venue/ Environment |
 | --- | --- | --- | --- | --- | --- |
